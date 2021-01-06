@@ -17,7 +17,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
     "apollo-boost": "^0.4.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-util-is": "^1.0.2",
     "epic-spinners": "^1.1.0",
     "express": "^4.17.1",
